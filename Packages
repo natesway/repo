@@ -1,0 +1,14 @@
+Package: com.coolbooter.coolbootercli
+Name: CoolbooterCli
+Version: 0.6.2
+Architecture: iphoneos-arm
+Description: TEST
+Maintainer: natesway
+Author: idk
+Section: Games
+Depends: 
+Filename: debs/cool.deb
+Size: 11300
+MD5sum: 
+SHA1: 
+SHA256: 
